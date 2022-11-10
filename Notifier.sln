@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notifier", "Notifier\Notifier.csproj", "{C95CE05F-D544-4083-8034-5817777993FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C95CE05F-D544-4083-8034-5817777993FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C95CE05F-D544-4083-8034-5817777993FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C95CE05F-D544-4083-8034-5817777993FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C95CE05F-D544-4083-8034-5817777993FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C53F8787-E37A-47A9-94E9-B9B7DD11EB95}
+	EndGlobalSection
+EndGlobal
